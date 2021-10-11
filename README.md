@@ -17,7 +17,7 @@ Arapahoe: 6.7% (24,801)
 ## * Which county had the largest number of votes?
 Largest County Turnout: Denver
 
-## Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+## * Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
 Charles Casper Stockham: 23.0% (85,213)
 Diana DeGette: 73.8% (272,892)
 Raymon Anthony Doane: 3.1% (11,606)
